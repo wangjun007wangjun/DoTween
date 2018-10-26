@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\panel2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MyButton.cs" Line="21" Column="20" />
+      <File FileName="Assets\Scripts\MyCube.cs" Line="12" Column="97" />
+      <File FileName="Assets\Scripts\MyPanel.cs" Line="11" Column="40" />
+      <File FileName="Assets\Scripts\MyText.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\Myshakecamera.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\TextColortween.cs" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\panel2.cs" Line="19" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
